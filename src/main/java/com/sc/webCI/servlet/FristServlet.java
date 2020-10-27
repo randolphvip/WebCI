@@ -8,6 +8,10 @@ public class FristServlet extends HttpServlet {
 	
 	@Override
 	protected void doPost(HttpServletRequest req, HttpServletResponse resp) {
+		int a;
+		int b;
+		int c=100/0;
+		
 		
 	}
 
